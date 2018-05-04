@@ -11,3 +11,13 @@ for list in biglist:
         print (ele,end='')
         print (', ',end='')
     print ('\n')
+
+#Using + operator to add elements to the list
+list=['a']
+list+='b'
+print (list)
+
+#Using * operator to add copies of current contents of array to it
+list=[2]
+list*=4
+print (list)
