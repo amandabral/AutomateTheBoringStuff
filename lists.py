@@ -17,7 +17,7 @@ list=['a']
 list+='b'
 print (list)
 
-#Using * operator to add copies of current contents of array to it
+#Using * operator to add copies of current contents of list to it
 list=[2]
 list*=4
 print (list)
